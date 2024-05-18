@@ -4,7 +4,7 @@ const usernameData = "admin";
 const passwordData = "password";
 
 
-// Test GitHub Actions #3
+// Test GitHub Actions will pass on testBranch #5
 test('UI - Login User', { 
   tag: ['@ProjectName', '@Tests', '@LoginUser', '@UI', '@FrontendTest'] 
 }, async ({ page }) => {
